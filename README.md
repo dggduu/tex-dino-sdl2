@@ -19,3 +19,5 @@ ltree-3.png
 minecraft.ttf  
 road.png  
 ```
+## 运行结果
+![running](https://github.com/dggduu/tex-dino-sdl2/blob/main/1.png)
